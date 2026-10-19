@@ -41,8 +41,6 @@ For example, if a pair of byte IDs occurs frequently in the training text, BPE c
 ```text
 .
 ├── main.ipynb        # The complete annotated implementation and tests
-├── original_notebook/
-│   └── main_original.ipynb  # Preserved notebook before the cleanup
 ├── README.md
 ├── requirements.txt  # Notebook environment dependency
 └── .gitignore
